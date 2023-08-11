@@ -1,0 +1,51 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Java
+
+# Package Files
+*.war
+*.ear
+
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+
+# Plugin-specific files:
+
+# IntelliJ
+/out/
+*.iml
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
+
+# Project
+/output
+tests/log/
+test/pic/sc1.jpg
+
+/tmp/
+/.allure/
+/logs/
+/build/
+/allure-results/
+/video/
+/old/
