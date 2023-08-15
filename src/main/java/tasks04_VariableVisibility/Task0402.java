@@ -1,4 +1,4 @@
-package tasks;
+package tasks04_VariableVisibility;
 
 public class Task0402 {
     public static void main(String[] args) {
