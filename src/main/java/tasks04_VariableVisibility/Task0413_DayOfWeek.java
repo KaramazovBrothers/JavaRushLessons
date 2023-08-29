@@ -3,7 +3,7 @@ package tasks04_VariableVisibility;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Task0413 {
+public class Task0413_DayOfWeek {
     public static void main(String[] args) throws Exception {
         InputStreamReader inputStreamReader = new InputStreamReader(System.in);
         BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
