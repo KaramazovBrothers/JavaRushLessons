@@ -1,4 +1,4 @@
-package tasks04_VariableVisibility;
+package Loops;
 
 public class Task0433 {
     public static void main(String[] args) {
@@ -8,6 +8,5 @@ public class Task0433 {
             System.out.println(s);
             i++;
         }
-
     }
 }

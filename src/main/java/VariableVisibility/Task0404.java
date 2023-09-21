@@ -1,4 +1,4 @@
-package tasks04_VariableVisibility;
+package VariableVisibility;
 
 public class Task0404 {
     private static int catsCount = 0;

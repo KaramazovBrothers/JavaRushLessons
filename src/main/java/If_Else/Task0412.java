@@ -1,4 +1,4 @@
-package tasks04_VariableVisibility;
+package If_Else;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
