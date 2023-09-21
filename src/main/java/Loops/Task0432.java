@@ -1,4 +1,4 @@
-package tasks04_VariableVisibility;
+package Loops;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package tasks04_VariableVisibility;
+package Loops;
 
 import com.codeborne.selenide.commands.SelectOptionByTextOrIndex;
 

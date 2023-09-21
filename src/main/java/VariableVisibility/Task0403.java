@@ -1,4 +1,4 @@
-package tasks04_VariableVisibility;
+package VariableVisibility;
 
 public class Task0403 {
     private String name = "безымянный кот";

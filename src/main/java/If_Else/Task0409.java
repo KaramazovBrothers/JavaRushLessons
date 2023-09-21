@@ -1,4 +1,4 @@
-package tasks04_VariableVisibility;
+package If_Else;
 
 public class Task0409 {
     public static void main(String[] args) {
